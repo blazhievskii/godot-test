@@ -21,7 +21,7 @@ The game is available directly in the browser! Just follow the link:
 1. Install [Godot 4](https://godotengine.org/)
 2. Clone the repository:
    ```sh
-   git clone https://github.com/blazhievskii/logic-gate-tutorial.git
+   git clone https://github.com/blazhievskii/godot-test.git
    ```
 3. Open the project in Godot 4
 4. Run the game in the editor or export it to Web
